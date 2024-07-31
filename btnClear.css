@@ -1,0 +1,17 @@
+.btn-clear
+{
+    cursor: pointer;
+    z-index: 100;
+    right: 10px;
+    position: relative;
+    top: -2.3rem;
+}
+
+.btn-clear-group
+{
+    cursor: pointer;
+    z-index: 100;
+    right: 5rem;
+    position: absolute;
+    top: 1rem;
+}
